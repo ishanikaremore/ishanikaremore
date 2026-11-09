@@ -1,33 +1,38 @@
 <h1 align="center">Hi 👋, I'm Ishani Karemore</h1>
-<h3 align="center">📊 Data Science Enthusiast | Python Developer | Machine Learning Learner</h3>
+<h2 align="center">Data Analytics Enthusiast | Python Learner | BTech Student</h2>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Exploring+Data+Science;Learning+Machine+Learning;Turning+Data+Into+Insights!" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analytics+Student&center=true&color=00F7FF&size=25">
 </p>
 
 ⸻
 
 🚀 About Me
 
-* 🎓 Data Science Student
-* 📊 Interested in Data Analytics and Machine Learning
-* 🐍 Learning Python, NumPy and Pandas
-* 💻 Passionate about solving real-world problems using data
-* 🌱 Always learning new technologies
-* 🎯 Aspiring Data Scientist
+🎓 BTech Student (6th Semester)
+
+📊 Interested in Data Analytics & Machine Learning
+
+💻 Love building data-driven applications
+
+🌱 Currently learning Python, Pandas, ML
 
 ⸻
 
 🔥 Skills
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode" />
+<p>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
-<p align="center">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge"/>
+<p>
+<img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-102230?style=for-the-badge&logo=googlecolab&logoColor=orange"/>
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ⸻
@@ -36,23 +41,29 @@
 
 🚀 Data Analysis Project
 
-Data cleaning, exploration and visualization using Python and Pandas.
+Data visualization and analysis using Python and Pandas.
 
-📊 Data Visualization
+📊 Machine Learning Model
 
-Creating interactive dashboards to generate meaningful insights.
+Prediction model using Scikit-learn.
 
-🤖 Machine Learning Model
+📈 Analytics Dashboard
 
-Building predictive models using Scikit-learn.
+Interactive dashboard built for data insights.
 
 ⸻
 
 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
+<a href="https://www.instagram.com/Ishanikaremore/">
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/Ishanikaremore/">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 <a href="https://github.com/Ishanikaremore">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -60,25 +71,29 @@ Building predictive models using Scikit-learn.
 
 🧰 Languages and Tools
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql,postgres,git,github,vscode,anaconda" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=android,js,html,php,mysql,postgres,c,cpp,vscode,python,numpy,pandas,matlab,powerbi,excel,canva" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/CURSOR-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+<img src="https://img.shields.io/badge/ANTIGRAVITY-111111?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
 ⸻
 
-📈 GitHub Statistics
+📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ishanikaremore&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ishanikaremore&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishanikaremore&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishanikaremore&theme=tokyonight&hide_border=true"/>
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishanikaremore&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishanikaremore&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ⸻
 
-<h3 align="center">✨ Learning Today, Leading Tomorrow! ✨</h3>
-<h4 align="center">Thanks for visiting my profile! 💙</h4>
+<h2 align="center">✨ Keep Learning, Keep Growing! ✨</h2>
+<h3 align="center">Thanks for visiting my profile! 💙</h3>
