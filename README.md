@@ -8,7 +8,7 @@
 
 🚀 About Me
 
-🎓 BTech Student (6th Semester)
+🎓 BTech Student (7th Semester)
 
 📊 Interested in Data Analytics & Machine Learning
 
