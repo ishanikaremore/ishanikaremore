@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishani Karemore</h1>
-<h2 align="center">Data Analytics Enthusiast | Python Learner | BTech Student</h2>
+<h2 align="center">Data Analytics Enthusiast | BTech Student</h2>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analytics+Student&center=true&color=00F7FF&size=25">
 </p>
